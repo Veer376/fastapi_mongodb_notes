@@ -1,0 +1,19 @@
+h1{
+    color: purple;
+    letter-spacing: 2px;
+    font-family: "Quicksand Light";
+    /*bold text*/
+    font-weight: bold;
+    font-size: 50px;
+}
+
+/* class - .
+   id selector - #
+   attribute - []
+   pseudo - :
+   universal - *
+   group - ,
+   child - >
+   descendant - (space)
+
+ */
